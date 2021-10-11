@@ -1,2 +1,2 @@
-# slm-practice
-Software Lifecycle Management Course 
+# Software Lifecycle Management Course 
+
